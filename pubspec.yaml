@@ -1,7 +1,9 @@
 name: lbd_phone_input
 description: Ultra-flexible phone input field ported from the lbd-phone-input web library.
 version: 0.1.0
-homepage: https://www.transfeero.com
+homepage: https://github.com/lbdsh/lbd-flutter-phone-input
+repository: https://github.com/lbdsh/lbd-flutter-phone-input
+issue_tracker: https://github.com/lbdsh/lbd-flutter-phone-input/issues
 environment:
   sdk: '>=2.17.0 <4.0.0'
   flutter: '>=3.10.0'
