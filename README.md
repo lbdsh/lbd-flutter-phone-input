@@ -5,6 +5,8 @@ lbd_phone_input (Flutter)
 
 Ultra-flexible, accessible phone-input widgets for Flutter with geo-aware defaults, smart formatting, and backend-friendly payloads. This package is a faithful port of the original **lbd-phone-input** web library, rebuilt with Flutter idioms while keeping feature parity and API familiarity.
 
+- **Requirements:** Dart 3.2+ · Flutter 3.16+
+
 - 118 country definitions with realistic placeholders and masks
 - Emoji or custom flag rendering and geo-smart defaults
 - Auto-formatting and national-mode helpers
