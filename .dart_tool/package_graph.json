@@ -5,7 +5,7 @@
   "packages": [
     {
       "name": "lbd_phone_input",
-      "version": "0.1.0",
+      "version": "0.1.2",
       "dependencies": [
         "collection",
         "flutter"
